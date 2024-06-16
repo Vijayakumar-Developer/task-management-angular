@@ -2,43 +2,37 @@
   "tasks": [
     {
       "id": "1",
-      "title": "a title"
+      "title": "Learn Angular",
+      "important": true,
+      "completed": true
     },
     {
-      "id": "2178",
-      "title": "Learn Angular"
+      "id": "b170",
+      "title": "Data Binding",
+      "important": true,
+      "completed": true
     },
     {
-      "id": "4f4e",
-      "title": "Component"
-    },
-    {
-      "id": "06a2",
+      "id": "54bc",
       "title": "Directive"
     },
     {
-      "id": "762c",
-      "title": "Data Binding"
+      "id": "b57e",
+      "title": "Components"
     },
     {
-      "id": "82ee",
-      "title": "NGIF"
+      "id": "48cc",
+      "title": "NgIF"
     },
     {
-      "id": "afa3",
-      "title": "ngModule"
+      "id": "5fd3",
+      "title": "Class"
     },
     {
-      "id": "ecc8",
-      "title": "Understand Learn"
-    },
-    {
-      "id": "69c1",
-      "title": "Final Learn"
-    },
-    {
-      "id": "75cd",
-      "title": "Understand Angular Project"
+      "id": "3b14",
+      "title": "Understand Angular'",
+      "important": true,
+      "completed": true
     }
   ]
 }
